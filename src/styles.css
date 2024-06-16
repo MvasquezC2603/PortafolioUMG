@@ -1,0 +1,13 @@
+/* You can add global styles to this file, and also import other style files */
+:root {
+  --main-background-color: #ce820f;
+}
+
+body {
+  background-color: #000000d7;
+  font-family: Onest Variable,system-ui,sans-serif;
+}
+
+.modal-content {
+  background-color: transparent;
+}
